@@ -79,19 +79,7 @@ This project is a mini Java project implementing file analysis, collection manip
 
 ---
 
-## 🚀 Installation and Execution
-💻 **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/MiniProjetJava.git
-   ```
 
-⚙️ **Compile and run the project**
-   ```bash
-   javac -cp . src/Main.java
-   java -cp . src.Main
-   ```
-
----
 
 ## 🛠️ Technologies Used
 <p align="center">
@@ -109,7 +97,7 @@ This project is a mini Java project implementing file analysis, collection manip
 ---
 
 ## 📜 Author
-[Youssef Alouani](https://github.com/YOUR-USERNAME)
+[Youssef Alouani](https://github.com/Al0uani)
 
 🔥 Feel free to contribute or report any issues! 🚀
 
