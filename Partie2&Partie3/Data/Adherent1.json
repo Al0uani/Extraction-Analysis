@@ -1,0 +1,530 @@
+[
+  {
+    "ville": "Guelmim",
+    "dateInscription": 2019,
+    "idA": 55,
+    "CIN": "LLLLHI89012300",
+    "nom": "Hicham El Gourari",
+    "age": 33
+  },
+  {
+    "ville": "Ouarzazate",
+    "dateInscription": 2023,
+    "idA": 70,
+    "CIN": "LLAH23456100",
+    "nom": "Ahmed Ech-Charif",
+    "age": 21
+  },
+  {
+    "ville": "Casablanca",
+    "dateInscription": 2017,
+    "idA": 57,
+    "CIN": "LLYO67890100",
+    "nom": "Youssef El Khaldouni",
+    "age": 39
+  },
+  {
+    "ville": "Meknès",
+    "dateInscription": 2018,
+    "idA": 7,
+    "CIN": "LLYO45678100",
+    "nom": "Youssef Mansouri",
+    "age": 35
+  },
+  {
+    "ville": "Agadir",
+    "dateInscription": 2020,
+    "idA": 63,
+    "CIN": "LLNA81012300",
+    "nom": "Nadia Lahmadi",
+    "age": 28
+  },
+  {
+    "ville": "Errachidia",
+    "dateInscription": 2021,
+    "idA": 73,
+    "CIN": "LLHA61890100",
+    "nom": "Hanae Boudrika",
+    "age": 23
+  },
+  {
+    "ville": "Safi",
+    "dateInscription": 2018,
+    "idA": 47,
+    "CIN": "LLYO45678900",
+    "nom": "Younes El Kabbaj",
+    "age": 33
+  },
+  {
+    "ville": "Tétouan",
+    "dateInscription": 2020,
+    "idA": 37,
+    "CIN": "LLAH23456700",
+    "nom": "Ahmed El Haddad",
+    "age": 31
+  },
+  {
+    "ville": "Ouazzane",
+    "dateInscription": 2020,
+    "idA": 28,
+    "CIN": "LLZA67890100",
+    "nom": "Zahra El Maghribi",
+    "age": 28
+  },
+  {
+    "ville": "Oujda",
+    "dateInscription": 2021,
+    "idA": 33,
+    "CIN": "LLAL23456700",
+    "nom": "Ali Bouazzaoui",
+    "age": 29
+  },
+  {
+    "ville": "Tan-Tan",
+    "dateInscription": 2016,
+    "idA": 25,
+    "CIN": "LLKH23456700",
+    "nom": "Khalid Oukacha",
+    "age": 46
+  },
+  {
+    "ville": "Tanger",
+    "dateInscription": 2017,
+    "idA": 45,
+    "CIN": "LLBR23456700",
+    "nom": "Brahim El Fahmi",
+    "age": 44
+  },
+  {
+    "ville": "Taroudant",
+    "dateInscription": 2023,
+    "idA": 80,
+    "CIN": "LLRE45678900",
+    "nom": "Reda Bennani",
+    "age": 20
+  },
+  {
+    "ville": "Ouarzazate",
+    "dateInscription": 2022,
+    "idA": 42,
+    "CIN": "LLAM89012300",
+    "nom": "Amina Tazi",
+    "age": 27
+  },
+  {
+    "ville": "Guelmim",
+    "dateInscription": 2022,
+    "idA": 21,
+    "CIN": "LLHI21456700",
+    "nom": "Hicham El Hariri",
+    "age": 27
+  },
+  {
+    "ville": "Safi",
+    "dateInscription": 2019,
+    "idA": 20,
+    "CIN": "LLAM67890100",
+    "nom": "Amina Benjelloun",
+    "age": 42
+  },
+  {
+    "ville": "Agadir",
+    "dateInscription": 2015,
+    "idA": 38,
+    "CIN": "LLKH89012300",
+    "nom": "Khadija El Azizi",
+    "age": 45
+  },
+  {
+    "ville": "Marrakech",
+    "dateInscription": 2019,
+    "idA": 36,
+    "CIN": "LLNA67890100",
+    "nom": "Naima Cherkaoui",
+    "age": 36
+  },
+  {
+    "ville": "Tiznit",
+    "dateInscription": 2016,
+    "idA": 15,
+    "CIN": "LLMO45678900",
+    "nom": "Mohamed El Amrani",
+    "age": 39
+  },
+  {
+    "ville": "Ouarzazate",
+    "dateInscription": 2023,
+    "idA": 13,
+    "CIN": "LLAH21456700",
+    "nom": "Ahmed Ech-Charif",
+    "age": 21
+  },
+  {
+    "ville": "Al Hoceima",
+    "dateInscription": 2020,
+    "idA": 75,
+    "CIN": "LLLO89082300",
+    "nom": "Loubna Bennis",
+    "age": 29
+  },
+  {
+    "ville": "Rabat",
+    "dateInscription": 2024,
+    "idA": 39,
+    "CIN": "LLRA45678900",
+    "nom": "Rachid El Azzouzi",
+    "age": 23
+  },
+  {
+    "ville": "Laâyoune",
+    "dateInscription": 2018,
+    "idA": 17,
+    "CIN": "LLOT23456700",
+    "nom": "Othmane Tazi",
+    "age": 33
+  },
+  {
+    "ville": "El Jadida",
+    "dateInscription": 2022,
+    "idA": 68,
+    "CIN": "LLIS15678900",
+    "nom": "Ismail Bensouda",
+    "age": 26
+  },
+  {
+    "ville": "Errachidia",
+    "dateInscription": 2021,
+    "idA": 16,
+    "CIN": "LLHA67890100",
+    "nom": "Hanae Boudrika",
+    "age": 23
+  },
+  {
+    "ville": "Fès",
+    "dateInscription": 2016,
+    "idA": 40,
+    "CIN": "LLAS67890100",
+    "nom": "Asmaa El Khalidi",
+    "age": 39
+  },
+  {
+    "ville": "Laâyoune",
+    "dateInscription": 2017,
+    "idA": 34,
+    "CIN": "LLFA89012300",
+    "nom": "Fatiha Kharbouch",
+    "age": 33
+  },
+  {
+    "ville": "Meknès",
+    "dateInscription": 2018,
+    "idA": 64,
+    "CIN": "LLYO4678900",
+    "nom": "Youssef Mansouri",
+    "age": 35
+  },
+  {
+    "ville": "Fès",
+    "dateInscription": 2022,
+    "idA": 52,
+    "CIN": "LLAS89012300",
+    "nom": "Asmaa El Khattabi",
+    "age": 21
+  },
+  {
+    "ville": "Midelt",
+    "dateInscription": 2018,
+    "idA": 30,
+    "CIN": "LLLA89012300",
+    "nom": "Laila Ennasiri",
+    "age": 35
+  },
+  {
+    "ville": "Agadir",
+    "dateInscription": 2020,
+    "idA": 6,
+    "CIN": "LLNA89012300",
+    "nom": "Nadia Lahmadi",
+    "age": 28
+  },
+  {
+    "ville": "Guelmim",
+    "dateInscription": 2022,
+    "idA": 78,
+    "CIN": "LLHI23456700",
+    "nom": "Hicham El Hariri",
+    "age": 27
+  },
+  {
+    "ville": "Sidi Ifni",
+    "dateInscription": 2016,
+    "idA": 32,
+    "CIN": "LLAI67890100",
+    "nom": "Aicha El Attar",
+    "age": 42
+  },
+  {
+    "ville": "Oujda",
+    "dateInscription": 2016,
+    "idA": 65,
+    "CIN": "LLK67890100",
+    "nom": "Khadija Benani",
+    "age": 45
+  },
+  {
+    "ville": "El Jadida",
+    "dateInscription": 2022,
+    "idA": 11,
+    "CIN": "LLIS45678900",
+    "nom": "Ismail Bensouda",
+    "age": 26
+  },
+  {
+    "ville": "Tétouan",
+    "dateInscription": 2024,
+    "idA": 9,
+    "CIN": "LLKA23456700",
+    "nom": "Karim El Fahmi",
+    "age": 24
+  },
+  {
+    "ville": "Nador",
+    "dateInscription": 2015,
+    "idA": 76,
+    "CIN": "LLYA41678900",
+    "nom": "Yassin El Mansour",
+    "age": 37
+  },
+  {
+    "ville": "Taroudant",
+    "dateInscription": 2023,
+    "idA": 23,
+    "CIN": "LLRE41678900",
+    "nom": "Reda Bennani",
+    "age": 20
+  },
+  {
+    "ville": "Rabat",
+    "dateInscription": 2019,
+    "idA": 2,
+    "CIN": "LLFA78901200",
+    "nom": "Fatima Zahra Bouchra",
+    "age": 30
+  },
+  {
+    "ville": "Tiznit",
+    "dateInscription": 2016,
+    "idA": 72,
+    "CIN": "LLMO5678900",
+    "nom": "Mohamed El Amrani",
+    "age": 39
+  },
+  {
+    "ville": "Agadir",
+    "dateInscription": 2017,
+    "idA": 51,
+    "CIN": "LLAH45678900",
+    "nom": "Ahmed El Kharroubi",
+    "age": 35
+  },
+  {
+    "ville": "Berkane",
+    "dateInscription": 2018,
+    "idA": 56,
+    "CIN": "LLAM23456700",
+    "nom": "Amina El Baroudi",
+    "age": 31
+  },
+  {
+    "ville": "Kenitra",
+    "dateInscription": 2019,
+    "idA": 69,
+    "CIN": "LLR67890100",
+    "nom": "Rita Chakir",
+    "age": 36
+  },
+  {
+    "ville": "Figuig",
+    "dateInscription": 2019,
+    "idA": 29,
+    "CIN": "LLIB23456700",
+    "nom": "Ibrahim Essalhi",
+    "age": 30
+  },
+  {
+    "ville": "Fès",
+    "dateInscription": 2023,
+    "idA": 62,
+    "CIN": "LLOM23456700",
+    "nom": "Omar El Khattabi",
+    "age": 18
+  },
+  {
+    "ville": "Casablanca",
+    "dateInscription": 2021,
+    "idA": 1,
+    "CIN": "LLYA12345600",
+    "nom": "Youssef El Alaoui",
+    "age": 25
+  },
+  {
+    "ville": "Tétouan",
+    "dateInscription": 2021,
+    "idA": 49,
+    "CIN": "LLME23456700",
+    "nom": "Mehdi El Jazouli",
+    "age": 26
+  },
+  {
+    "ville": "Oujda",
+    "dateInscription": 2016,
+    "idA": 8,
+    "CIN": "LLKH67890100",
+    "nom": "Khadija Benani",
+    "age": 45
+  },
+  {
+    "ville": "Essaouira",
+    "dateInscription": 2015,
+    "idA": 10,
+    "CIN": "LLHO89012300",
+    "nom": "Houda El Hachimi",
+    "age": 32
+  },
+  {
+    "ville": "Laâyoune",
+    "dateInscription": 2018,
+    "idA": 74,
+    "CIN": "LLOT28456700",
+    "nom": "Othmane Tazi",
+    "age": 33
+  },
+  {
+    "ville": "Meknès",
+    "dateInscription": 2018,
+    "idA": 41,
+    "CIN": "LLMO23456700",
+    "nom": "Mohamed El Mansouri",
+    "age": 37
+  },
+  {
+    "ville": "Nador",
+    "dateInscription": 2015,
+    "idA": 19,
+    "CIN": "LLYA44678900",
+    "nom": "Houssam El Mansour",
+    "age": 37
+  },
+  {
+    "ville": "Al Hoceima",
+    "dateInscription": 2020,
+    "idA": 18,
+    "CIN": "LLLO89012300",
+    "nom": "Loubna Bennis",
+    "age": 29
+  },
+  {
+    "ville": "Tanger",
+    "dateInscription": 2017,
+    "idA": 4,
+    "CIN": "LLAM56789000",
+    "nom": "Amina Bouazza",
+    "age": 40
+  },
+  {
+    "ville": "Béni Mellal",
+    "dateInscription": 2017,
+    "idA": 22,
+    "CIN": "LLZI89012300",
+    "nom": "Zineb El Kaddouri",
+    "age": 38
+  },
+  {
+    "ville": "Dakhla",
+    "dateInscription": 2017,
+    "idA": 71,
+    "CIN": "LLS8901300",
+    "nom": "Sara Maalouf",
+    "age": 31
+  },
+  {
+    "ville": "Taza",
+    "dateInscription": 2018,
+    "idA": 24,
+    "CIN": "LLSA67890100",
+    "nom": "Samira El Idrissi",
+    "age": 34
+  },
+  {
+    "ville": "Khémisset",
+    "dateInscription": 2024,
+    "idA": 26,
+    "CIN": "LLNA89022300",
+    "nom": "Nawal El Azhari",
+    "age": 19
+  },
+  {
+    "ville": "Dakhla",
+    "dateInscription": 2017,
+    "idA": 14,
+    "CIN": "LLSA89012300",
+    "nom": "Sara Maalouf",
+    "age": 31
+  },
+  {
+    "ville": "Fès",
+    "dateInscription": 2023,
+    "idA": 5,
+    "CIN": "LLOM23451700",
+    "nom": "Omar El Khattabi",
+    "age": 18
+  },
+  {
+    "ville": "Casablanca",
+    "dateInscription": 2023,
+    "idA": 35,
+    "CIN": "LLKA45678900",
+    "nom": "Karim El Filali",
+    "age": 25
+  },
+  {
+    "ville": "Kenitra",
+    "dateInscription": 2019,
+    "idA": 12,
+    "CIN": "LLRI67890100",
+    "nom": "Rita Chakir",
+    "age": 36
+  },
+  {
+    "ville": "Chefchaouen",
+    "dateInscription": 2017,
+    "idA": 27,
+    "CIN": "LLYA45678900",
+    "nom": "Yassir El Gharbi",
+    "age": 41
+  },
+  {
+    "ville": "Berkane",
+    "dateInscription": 2017,
+    "idA": 79,
+    "CIN": "LLZI89812300",
+    "nom": "Zineb El Kadimi",
+    "age": 38
+  },
+  {
+    "ville": "Marrakech",
+    "dateInscription": 2022,
+    "idA": 3,
+    "CIN": "LLME34567800",
+    "nom": "Mehdi Ben Salah",
+    "age": 22
+  },
+  {
+    "ville": "Marrakech",
+    "dateInscription": 2020,
+    "idA": 53,
+    "CIN": "LLHA23456700",
+    "nom": "Hassan El Mansouri",
+    "age": 29
+  }
+]

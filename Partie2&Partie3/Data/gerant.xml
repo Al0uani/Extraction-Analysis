@@ -1,0 +1,182 @@
+<gerants>
+    <gerant>
+        <idG>1</idG>
+        <nomG>Mohammed</nomG>
+        <sexe>homme</sexe>
+        <age>25</age>
+        <specialite>Mathematique</specialite>
+        <cartierResid>Iberia</cartierResid>
+        <numDep>10</numDep>
+    </gerant>
+    <gerant>
+        <idG>2</idG>
+        <nomG>Fatima</nomG>
+        <sexe>femme</sexe>
+        <age>30</age>
+        <cartierResid>Bni makada</cartierResid>
+        <specialite>Informatique</specialite>
+        <numDep>11</numDep>
+    </gerant>
+    <gerant>
+        <idG>3</idG>
+        <nomG>Ahmed</nomG>
+        <sexe>homme</sexe>
+        <age>28</age>
+        <specialite>Juridique</specialite>
+        <cartierResid>Iberia</cartierResid>
+        <numDep>12</numDep>
+    </gerant>
+    <gerant>
+        <idG>4</idG>
+        <nomG>Leila</nomG>
+        <sexe>femme</sexe>
+        <age>32</age>
+        <cartierResid>Drissia</cartierResid>
+        <specialite>Economie</specialite>
+        <numDep>13</numDep>
+    </gerant>
+    <gerant>
+        <idG>5</idG>
+        <nomG>Youssef</nomG>
+        <sexe>homme</sexe>
+        <age>29</age>
+        <cartierResid>Mesnana</cartierResid>
+        <specialite>Sciences Humaines</specialite>
+        <numDep>14</numDep>
+    </gerant>
+    <gerant>
+    <idG>6</idG>
+    <nomG>Sara</nomG>
+    <sexe>femme</sexe>
+    <age>28</age>
+    <cartierResid>Boukhalef</cartierResid>
+    <specialite>Mathematique</specialite>
+    <numDep>15</numDep>
+</gerant>
+<gerant>
+    <idG>7</idG>
+    <nomG>Karim</nomG>
+    <sexe>homme</sexe>
+    <age>33</age>
+    <cartierResid>Gzenaya</cartierResid>
+    <specialite>Informatique</specialite>
+    <numDep>16</numDep>
+</gerant>
+<gerant>
+    <idG>8</idG>
+    <nomG>Hanane</nomG>
+    <sexe>femme</sexe>
+    <age>26</age>
+    <cartierResid>Branes</cartierResid>
+    <specialite>Juridique</specialite>
+    <numDep>17</numDep>
+</gerant>
+<gerant>
+    <idG>9</idG>
+    <nomG>Omar</nomG>
+    <sexe>homme</sexe>
+    <age>30</age>
+    <cartierResid>Souani</cartierResid>
+    <specialite>Economie</specialite>
+    <numDep>18</numDep>
+</gerant>
+<gerant>
+    <idG>10</idG>
+    <nomG>Nadia</nomG>
+    <sexe>femme</sexe>
+    <age>29</age>
+    <cartierResid>Souani</cartierResid>
+    <specialite>Sciences Humaines</specialite>
+    <numDep>19</numDep>
+</gerant>
+<gerant>
+    <idG>11</idG>
+    <nomG>Abdelaziz</nomG>
+    <sexe>homme</sexe>
+    <age>27</age>
+    <cartierResid>Zyaten</cartierResid>
+    <specialite>Mathematique</specialite>
+    <numDep>20</numDep>
+</gerant>
+<gerant>
+    <idG>12</idG>
+    <nomG>Samia</nomG>
+    <sexe>femme</sexe>
+    <age>31</age>
+    <cartierResid>Dradeb</cartierResid>
+    <specialite>Informatique</specialite>
+    <numDep>1</numDep>    
+</gerant>
+<gerant>
+    <idG>13</idG>
+    <nomG>Rachid</nomG>
+    <sexe>homme</sexe>
+    <age>29</age>
+    <cartierResid>Drissia</cartierResid>
+    <specialite>Juridique</specialite>
+    <numDep>2</numDep>    
+</gerant>
+<gerant>
+    <idG>14</idG>
+    <nomG>Mouna</nomG>
+    <sexe>femme</sexe>
+    <age>34</age>
+    <cartierResid>Malabata</cartierResid>
+    <specialite>Economie</specialite>
+    <numDep>3</numDep>    
+</gerant>
+<gerant>
+    <idG>15</idG>
+    <nomG>Khalid</nomG>
+    <sexe>homme</sexe>
+    <age>28</age>
+    <cartierResid>Menar</cartierResid>
+    <specialite>Sciences Humaines</specialite>
+    <numDep>4</numDep>    
+</gerant>
+<gerant>
+    <idG>16</idG>
+    <nomG>Imane</nomG>
+    <sexe>femme</sexe>
+    <age>32</age>
+    <cartierResid>Iberia</cartierResid>
+    <specialite>Mathematique</specialite>
+    <numDep>5</numDep>    
+</gerant>
+<gerant>
+    <idG>17</idG>
+    <nomG>Amine</nomG>
+    <sexe>homme</sexe>
+    <age>30</age>
+    <cartierResid>Boukhalef</cartierResid>
+    <specialite>Informatique</specialite>
+    <numDep>6</numDep>    
+</gerant>
+<gerant>
+    <idG>18</idG>
+    <nomG>Salma</nomG>
+    <sexe>femme</sexe>
+    <age>27</age>
+    <cartierResid>Mesnana</cartierResid>
+    <specialite>Juridique</specialite>
+    <numDep>7</numDep>    
+</gerant>
+<gerant>
+    <idG>19</idG>
+    <nomG>Hassan</nomG>
+    <sexe>homme</sexe>
+    <age>33</age>
+    <cartierResid>Souani</cartierResid>
+    <specialite>Economie</specialite>
+    <numDep>8</numDep>    
+</gerant>
+<gerant>
+    <idG>20</idG>
+    <nomG>Fatima-Zahra</nomG>
+    <sexe>femme</sexe>
+    <age>29</age>
+    <cartierResid>Branes</cartierResid>
+    <specialite>Sciences Humaines</specialite>
+    <numDep>9</numDep>    
+</gerant>
+</gerants>

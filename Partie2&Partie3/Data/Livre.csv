@@ -1,0 +1,201 @@
+﻿idLivre,titre,auteur,DateSortie,editeur,prixAchat,numDep
+1,Les Mystères de la Physique,Marie Curie,2010,Quantum Press,29.99,1
+2,Le Monde des Lettres,Victor Hugo,1857,Livre Classique,12.5,2
+3,Stratégies Financières Innovantes,Elon Musk,2018,Future Finance,35.75,3
+4,Dessins Créatifs pour les Petits,Young Artists Studio,2015,Creative Kids,19.99,4
+5,Poèmes Intemporels,Emily Dickinson,1886,Lyrical Works,14.99,5
+6,L'Univers de l'Informatique,Alan Turing,1945,Computing House,45,6
+7,L'Art de la Peinture Classique,Leonardo da Vinci,1500,Artistry House,29.99,7
+8,Jeux Éducatifs pour Enfants,Smart Learning Lab,2021,Playful Education,18,8
+9,Explorations Mathématiques,Ada Lovelace,2015,Math Wizards,32.5,9
+10,Philosophie Contemporaine: Débats Actuels,Slavoj Žižek,2000,Modern Philosophy,22.5,10
+11,Musique Ludique pour les Petits,Mozart,1785,Musical Wonders,18.75,11
+12,Biologie Avancée,James Watson,2003,Genetic Discoveries,40,12
+13,Les Classiques Littéraires,Various Authors,1875,Literary Wonders,22.99,13
+14,Stratégies de Marketing Numérique,Seth Godin,2023,Digital Trends,29.5,14
+15,Contes Féériques pour Enfants,Hans Christian Andersen,1840,Fantasy Realm Books,15,15
+16,Art Contemporain: Explorons les Couleurs,Modern Art Studio,2010,Visual Journeys,31.75,16
+17,À la Découverte de l'Astronomie,Carl Sagan,1980,Cosmic Publishing,23,17
+18,Cinéma: Techniques et Secrets de Réalisation,Sofia Coppola,2015,FilmCraft,36.75,18
+19,Exploration de la Nature pour Enfants,Young Explorers Club,2019,Outdoor Adventures,13.99,19
+20,Statistiques Économiques en Profondeur,Robert J. Shiller,2020,Economic Insights,40.75,20
+21,Les Mystères de l'Univers Quantique,Marie Curie,2013,Quantum Press,32.99,1
+22,Épopées Littéraires du Monde,Various Authors,1200,Classic Literature Co.,18.5,2
+23,Stratégies Financières Avant-Gardistes,Elon Musk,2020,Future Finance,39.99,3
+24,Œuvres Artistiques pour les Jeunes,Young Artists Studio,2018,Creative Kids,20.99,4
+25,Poèmes Inspirants pour l'Âme,Robert Frost,1930,Verse Expressions,15.5,5
+26,Informatique Avancée et Applications,Grace Hopper,1978,Advanced Computing,49,6
+27,L'Art de la Peinture à Travers les Âges,Leonardo da Vinci,1525,Artistry House,33.99,7
+28,Jeux Éducatifs Innovants pour Enfants,Smart Learning Lab,2022,Playful Education,19.99,8
+29,Mathématiques Ludiques pour les Petits Génies,Ada Lovelace,2017,Math Wizards,25.5,9
+30,Philosophie Moderne: Nouveaux Horizons,Slavoj Žižek,2012,Modern Philosophy,24,10
+31,Musique pour les Petits: Harmonies Ensorcelantes,Wolfgang Amadeus Mozart,1792,Musical Wonders,22.5,11
+32,Génétique et Thérapies Innovantes,Francis Collins,2012,Genetic Discoveries,49.5,12
+33,Trésors Littéraires Inoubliables,Various Authors,1880,Literary Treasures,24.99,13
+34,Marketing Numérique Stratégique,Seth Godin,2024,Digital Trends,33,14
+35,Contes Féériques Enchanteurs pour Enfants,Hans Christian Andersen,1847,Fantasy Realm Books,16.5,15
+36,Art Contemporain: Couleurs Vibrantes et Formes,Modern Art Studio,2017,Visual Journeys,40.99,16
+37,Astronomie pour les Esprits Rêveurs,Carl Sagan,1990,Cosmic Publishing,27.5,17
+38,Cinéma: Techniques Avancées de la Réalisation,Sofia Coppola,2014,FilmCraft,39.75,18
+39,Exploration de la Nature pour les Petits Curieux,Young Explorers Club,2020,Outdoor Adventures,18.99,19
+40,Statistiques Économiques: Approches Innovantes,Robert J. Shiller,2021,Economic Insights,45.25,20
+41,Exploration Quantique pour Enfants,Quantum Kids,2016,Kids Quantum,22.99,1
+42,Anthologie des Grands Écrivains,Various Authors,1300,Classic Literature Co.,23.5,2
+43,Stratégies Économiques pour le Futur,Elon Musk,2021,Future Finance,44.75,3
+44,Dessins Créatifs et Artistiques,Young Artists Studio,2019,Creative Kids,22.99,4
+45,Poèmes du Cœur et de l'Esprit,Robert Frost,1945,Verse Expressions,16.99,5
+46,Informatique Pratique: Concepts et Applications,Grace Hopper,1985,Advanced Computing,54,6
+47,L'Art de la Peinture Classique,Leonardo da Vinci,1530,Artistry House,36.99,7
+48,Jeux Éducatifs pour Enfants,Smart Learning Lab,2023,Playful Education,20.5,8
+49,Mathématiques Amusantes pour les Jeunes Génies,Ada Lovelace,2016,Math Wizards,27,9
+50,Philosophie Contemporaine: Regards Nouveaux,Slavoj Žižek,2016,Modern Philosophy,23.5,10
+51,Musique Ludique et Envoûtante pour les Petits,Wolfgang Amadeus Mozart,1798,Musical Wonders,23.25,11
+52,Génétique Moléculaire et Applications Thérapeutiques,Francis Collins,2010,Genetic Discoveries,50.5,12
+53,Trésors Littéraires Inoubliables,Various Authors,1895,Literary Treasures,25.99,13
+54,Marketing Numérique Stratégique et Innovant,Seth Godin,2025,Digital Trends,35.5,14
+55,Contes Féériques Enchantés pour Enfants,Hans Christian Andersen,1855,Fantasy Realm Books,17.99,15
+56,Art Contemporain: Formes et Expressions Vibrantes,Modern Art Studio,2014,Visual Journeys,42.75,16
+57,Astronomie pour les Rêveurs de l'Univers,Carl Sagan,1995,Cosmic Publishing,29.5,17
+58,Cinéma: Techniques Avancées de la Réalisation,Sofia Coppola,2011,FilmCraft,41.75,18
+59,Exploration de la Nature pour les Petits Aventuriers,Young Explorers Club,2024,Outdoor Adventures,19.99,19
+60,Statistiques Économiques: Approches Innovantes,Robert J. Shiller,2020,Economic Insights,47.25,20
+61,À la Découverte de la Physique Quantique,Marie Curie,2015,Quantum Press,36.99,1
+62,Œuvres Littéraires du Monde Ancien,Various Authors,1100,Classic Literature Co.,21.75,2
+63,Stratégies Économiques Innovantes,Elon Musk,2022,Future Finance,49.99,3
+64,Dessins Créatifs et Artistiques pour les Petits,Young Artists Studio,2020,Creative Kids,25.99,4
+65,Poèmes Inspirants pour l'Âme en Quête,Maya Angelou,1975,Verse Expressions,19.5,5
+66,Informatique Avancée: Nouveaux Horizons,Grace Hopper,1990,Advanced Computing,57,6
+67,L'Art de la Peinture Classique à Travers les Âges,Leonardo da Vinci,1540,Artistry House,38.99,7
+68,Jeux Éducatifs Innovants pour Enfants,Smart Learning Lab,2024,Playful Education,21.25,8
+69,Mathématiques Ludiques pour les Petits Génies en Herbe,Ada Lovelace,2018,Math Wizards,29.5,9
+70,Philosophie Contemporaine: Perspectives Nouvelles et Audacieuses,Slavoj Žižek,2020,Modern Philosophy,25,10
+71,Musique Ludique et Envoûtante pour les Petits Curieux,Wolfgang Amadeus Mozart,1805,Musical Wonders,24.75,11
+72,Génétique Moléculaire: Avancées et Applications Thérapeutiques,Francis Collins,2014,Genetic Discoveries,54.5,12
+73,Trésors Littéraires Inoubliables et Intemporels,Various Authors,1900,Literary Treasures,28.99,13
+74,Marketing Numérique Stratégique et Innovant,Seth Godin,2026,Digital Trends,38,14
+75,Contes Féériques Enchantés pour Enfants,Hans Christian Andersen,1860,Fantasy Realm Books,19.5,15
+76,Art Contemporain: Formes et Expressions Vibrantes,Modern Art Studio,2016,Visual Journeys,45.25,16
+77,Astronomie pour les Rêveurs de l'Univers,Cosmic Kids,2017,Cosmic Publishing,31.5,17
+78,Cinéma: Techniques Avancées de la Réalisation,Sofia Coppola,2013,FilmCraft,43.75,18
+79,Exploration de la Nature pour les Petits Aventuriers,Young Explorers Club,2025,Outdoor Adventures,22.99,19
+80,Statistiques Économiques: Approches Innovantes,Robert J. Shiller,2021,Economic Insights,49.25,20
+81,Exploration Quantique pour Enfants Curieux,Quantum Kids,2018,Kids Quantum,24.99,1
+82,Antiquité Littéraire: Trésors Oubliés,Various Authors,1000,Classic Literature Co.,25.5,2
+83,Stratégies Économiques du Futur,Elon Musk,2023,Future Finance,54.75,3
+84,Dessins Créatifs et Artistiques pour Petites Mains,Young Artists Studio,2022,Creative Kids,28.99,4
+85,Poèmes Inspirants pour l'Âme en Quête de Sagesse,Maya Angelou,1980,Verse Expressions,22.5,5
+86,Informatique Avancée: Innovations et Applications,Grace Hopper,1995,Advanced Computing,62,6
+87,L'Art de la Peinture Classique à Travers les Siècles,Leonardo da Vinci,1550,Artistry House,42.99,7
+88,Jeux Éducatifs Innovants pour Petits Explorateurs,Smart Learning Lab,2025,Playful Education,23.75,8
+89,Mathématiques Ludiques pour Petits Génies en Herbe,Ada Lovelace,2020,Math Wizards,31.5,9
+90,Philosophie Contemporaine: Perspectives Nouvelles et Audacieuses,Slavoj Žižek,2022,Modern Philosophy,26.25,10
+91,Musique Ludique et Envoûtante pour Petits Curieux,Beethoven,1807,Musical Wonders,26,11
+92,Génétique Moléculaire: Nouveautés et Applications Thérapeutiques,Francis Collins,2018,Genetic Discoveries,58.5,12
+93,Trésors Littéraires Inoubliables et Intemporels,Various Authors,1910,Literary Treasures,29.99,13
+94,Marketing Numérique Stratégique et Innovant,Seth Godin,2027,Digital Trends,40.25,14
+95,Contes Féériques Enchantés pour Petits Rêveurs,Hans Christian Andersen,1865,Fantasy Realm Books,21.5,15
+96,Art Contemporain: Formes et Expressions Vibrantes,Modern Art Studio,2018,Visual Journeys,47.25,16
+97,Astronomie pour les Rêveurs de l'Univers,Cosmic Kids,2019,Cosmic Publishing,33.5,17
+98,Cinéma: Techniques Avancées de la Réalisation,Sofia Coppola,2015,FilmCraft,45.75,18
+99,Exploration de la Nature pour Petits Aventuriers,Young Explorers Club,2026,Outdoor Adventures,24.99,19
+100,Statistiques Économiques: Approches Innovantes,Robert J. Shiller,2022,Economic Insights,51.25,20
+101,À la Découverte des Particules Quantiques,Marie Curie,2017,Quantum Press,38.99,1
+102,Trésors Littéraires de l'Antiquité,Various Authors,900,Classic Literature Co.,28.5,2
+103,Stratégies Économiques pour un Monde Nouveau,Elon Musk,2024,Future Finance,59.99,3
+104,Dessins Créatifs et Artistiques pour Petits Artistes,Young Artists Studio,2023,Creative Kids,30.99,4
+105,Poèmes Inspirants pour l'Âme en Quête de Beauté,Maya Angelou,1985,Verse Expressions,25.5,5
+106,Informatique de Pointe: Innovations et Applications,Grace Hopper,2000,Advanced Computing,67,6
+107,L'Art de la Peinture Classique à Travers les Époques,Leonardo da Vinci,1560,Artistry House,48.99,7
+108,Jeux Éducatifs Innovants pour Petits Explorateurs,Smart Learning Lab,2026,Playful Education,27.25,8
+109,Mathématiques Ludiques pour Petits Génies en Herbe,Ada Lovelace,2021,Math Wizards,33.5,9
+110,Philosophie Contemporaine: Regards Nouveaux et Audacieux,Slavoj Žižek,2023,Modern Philosophy,27.75,10
+111,Musique Ludique et Envoûtante pour Petits Curieux,Beethoven,1810,Musical Wonders,28,11
+112,Génétique Moléculaire: Nouveautés et Applications Thérapeutiques,Francis Collins,2020,Genetic Discoveries,63.5,12
+113,Trésors Littéraires Inoubliables et Intemporels,Various Authors,1920,Literary Treasures,32.99,13
+114,Marketing Numérique Stratégique et Innovant,Seth Godin,2028,Digital Trends,43,14
+115,Contes Féériques Enchantés pour Petits Rêveurs,Hans Christian Andersen,1870,Fantasy Realm Books,23.5,15
+116,Art Contemporain: Formes et Expressions Vibrantes,Modern Art Studio,2020,Visual Journeys,49.25,16
+117,Astronomie pour les Rêveurs de l'Univers,Cosmic Kids,2021,Cosmic Publishing,35.5,17
+118,Cinéma: Techniques Avancées de la Réalisation,Sofia Coppola,2017,FilmCraft,47.75,18
+119,Exploration de la Nature pour Petits Aventuriers,Young Explorers Club,2027,Outdoor Adventures,26.99,19
+120,Statistiques Économiques: Approches Innovantes,Robert J. Shiller,2023,Economic Insights,53.25,20
+121,Voyage dans le Monde Quantique,Marie Curie,2020,Quantum Press,42.99,1
+122,Trésors Littéraires Anciens et Inédits,Various Authors,850,Classic Literature Co.,32.5,2
+123,Stratégies Économiques pour une Ère Nouvelle,Elon Musk,2025,Future Finance,64.99,3
+124,Dessins Créatifs et Artistiques pour Petits Créateurs,Young Artists Studio,2024,Creative Kids,34.99,4
+125,Poèmes Inspirants pour l'Âme en Quête de Sérénité,Maya Angelou,1990,Verse Expressions,29.5,5
+126,Informatique de Pointe: Nouvelles Innovations et Applications,Grace Hopper,2005,Advanced Computing,72,6
+127,L'Art de la Peinture Classique à Travers les Âges,Leonardo da Vinci,1570,Artistry House,54.99,7
+128,Jeux Éducatifs Innovants pour Petits Explorateurs,Smart Learning Lab,2028,Playful Education,31.25,8
+129,Mathématiques Ludiques pour Petits Génies en Herbe,Ada Lovelace,2022,Math Wizards,37.5,9
+130,Philosophie Contemporaine: Regards Nouveaux et Audacieux,Slavoj Žižek,2024,Modern Philosophy,31.75,10
+131,Musique Ludique et Envoûtante pour Petits Curieux,Beethoven,1815,Musical Wonders 2,32,11
+132,Génétique Moléculaire: Nouveautés et Applications Thérapeutiques,Francis Collins,2022,Genetic Discoveries,69.5,12
+133,Trésors Littéraires Inoubliables et Intemporels,Various Authors,1930,Literary Treasures,36.99,13
+134,Marketing Numérique Stratégique et Innovant,Seth Godin,2029,Digital Trends,48,14
+135,Contes Féériques Enchantés pour Petits Rêveurs,Hans Christian Andersen,1875,Fantasy Realm Books,32.5,15
+136,Art Contemporain: Formes et Expressions Vibrantes,Modern Art Studio,2022,Visual Journeys,54.25,16
+137,Astronomie pour les Rêveurs de l'Univers,Cosmic Kids,2023,Cosmic Publishing,40.5,17
+138,Cinéma: Techniques Avancées de la Réalisation,Sofia Coppola,2019,FilmCraft,52.75,18
+139,Exploration de la Nature pour Petits Aventuriers,Young Explorers Club,2030,Outdoor Adventures,39.99,19
+140,Statistiques Économiques: Approches Innovantes,Robert J. Shiller,2024,Economic Insights,56.25,20
+141,Aventure dans le Monde Quantique,Marie Curie,2021,Quantum Press,44.99,1
+142,Trésors Littéraires des Temps Anciens,Various Authors,800,Classic Literature Co.,34.5,2
+143,Stratégies Économiques pour une Ère Révolutionnaire,Elon Musk,2026,Future Finance,69.99,3
+144,Dessins Créatifs et Artistiques pour Petits Créateurs,Young Artists Studio,2025,Creative Kids,36.99,4
+145,Poèmes Inspirants pour l'Âme en Quête de Sérénité,Maya Angelou,1995,Verse Expressions,31.5,5
+146,Informatique de Pointe: Nouvelles Innovations et Applications,Grace Hopper,2010,Advanced Computing,76,6
+147,L'Art de la Peinture Classique à Travers les Âges,Leonardo da Vinci,1580,Artistry House,59.99,7
+148,Jeux Éducatifs Innovants pour Petits Explorateurs,Smart Learning Lab,2031,Playful Education,34.25,8
+149,Mathématiques Ludiques pour Petits Génies en Herbe,Ada Lovelace,2023,Math Wizards,40.5,9
+150,Philosophie Contemporaine: Regards Nouveaux et Audacieux,Slavoj Žižek,2025,Modern Philosophy,34.75,10
+151,Musique Ludique et Envoûtante pour Petits Curieux,Beethoven,1820,Musical Wonders 3,36,11
+152,Génétique Moléculaire: Nouveautés et Applications Thérapeutiques,Francis Collins,2024,Genetic Discoveries,75.5,12
+153,Trésors Littéraires Inoubliables et Intemporels,Various Authors,1940,Literary Treasures,38.99,13
+154,Marketing Numérique Stratégique et Innovant,Seth Godin,2032,Digital Trends,50,14
+155,Contes Féériques Enchantés pour Petits Rêveurs,Hans Christian Andersen,1880,Fantasy Realm Books,35.5,15
+156,Art Contemporain: Formes et Expressions Vibrantes,Modern Art Studio,2024,Visual Journeys,59.25,16
+157,Astronomie pour les Rêveurs de l'Univers,Cosmic Kids,2025,Cosmic Publishing,43.5,17
+158,Cinéma: Techniques Avancées de la Réalisation,Sofia Coppola,2021,FilmCraft,55.75,18
+159,Exploration de la Nature pour Petits Aventuriers,Young Explorers Club,2033,Outdoor Adventures,41.99,19
+160,Statistiques Économiques: Approches Innovantes,Robert J. Shiller,2026,Economic Insights,58.25,20
+161,Aventure dans le Monde Quantique 2,Marie Curie,2023,Quantum Press,46.99,1
+162,Trésors Littéraires des Temps Anciens 2,Various Authors,750,Classic Literature Co.,36.5,2
+163,Stratégies Économiques pour une Ère Révolutionnaire 2,Elon Musk,2028,Future Finance,74.99,3
+164,Dessins Créatifs et Artistiques pour Petits Créateurs 2,Young Artists Studio,2027,Creative Kids,38.99,4
+165,Poèmes Inspirants pour l'Âme en Quête de Sérénité 2,Maya Angelou,2000,Verse Expressions,33.5,5
+166,Informatique de Pointe: Nouvelles Innovations et Applications 2,Grace Hopper,2015,Advanced Computing,80,6
+167,L'Art de la Peinture Classique à Travers les Âges 2,Leonardo da Vinci,1590,Artistry House,63.99,7
+168,Jeux Éducatifs Innovants pour Petits Explorateurs 2,Smart Learning Lab,2033,Playful Education,36.25,8
+169,Mathématiques Ludiques pour Petits Génies en Herbe 2,Ada Lovelace,2025,Math Wizards,42.5,9
+170,Philosophie Contemporaine: Regards Nouveaux et Audacieux 2,Slavoj Žižek,2027,Modern Philosophy,36.75,10
+171,Musique Ludique et Envoûtante pour Petits Curieux 2,Beethoven,1825,Musical Wonders 4,38,11
+172,Génétique Moléculaire: Nouveautés et Applications Thérapeutiques 2,Francis Collins,2026,Genetic Discoveries,79.5,12
+173,Trésors Littéraires Inoubliables et Intemporels 2,Various Authors,1950,Literary Treasures,40.99,13
+174,Marketing Numérique Stratégique et Innovant 2,Seth Godin,2034,Digital Trends,52,14
+175,Contes Féériques Enchantés pour Petits Rêveurs 2,Hans Christian Andersen,1890,Fantasy Realm Books,37.5,15
+176,Art Contemporain: Formes et Expressions Vibrantes 2,Modern Art Studio,2026,Visual Journeys,61.25,16
+177,Astronomie pour les Rêveurs de l'Univers 2,Cosmic Kids,2027,Cosmic Publishing,45.5,17
+178,Cinéma: Techniques Avancées de la Réalisation 2,Sofia Coppola,2023,FilmCraft,57.75,18
+179,Exploration de la Nature pour Petits Aventuriers 2,Young Explorers Club,2035,Outdoor Adventures,43.99,19
+180,Statistiques Économiques: Approches Innovantes 2,Robert J. Shiller,2028,Economic Insights,60.25,20
+181,Aventure dans le Monde Quantique 3,Marie Curie,2026,Quantum Press,49.99,1
+182,Trésors Littéraires des Temps Anciens 3,Various Authors,700,Classic Literature Co.,38.5,2
+183,Stratégies Économiques pour une Ère Révolutionnaire 3,Elon Musk,2031,Future Finance,79.99,3
+184,Dessins Créatifs et Artistiques pour Petits Créateurs 3,Young Artists Studio,2030,Creative Kids,40.99,4
+185,Poèmes Inspirants pour l'Âme en Quête de Sérénité 3,Maya Angelou,2005,Verse Expressions,35.5,5
+186,Informatique de Pointe: Nouvelles Innovations et Applications 3,Grace Hopper,2020,Advanced Computing,84,6
+187,L'Art de la Peinture Classique à Travers les Âges 3,Leonardo da Vinci,1600,Artistry House,67.99,7
+188,Jeux Éducatifs Innovants pour Petits Explorateurs 3,Smart Learning Lab,2038,Playful Education,39.25,8
+189,Mathématiques Ludiques pour Petits Génies en Herbe 3,Ada Lovelace,2029,Math Wizards,44.5,9
+190,Philosophie Contemporaine: Regards Nouveaux et Audacieux 3,Slavoj Žižek,2031,Modern Philosophy,38.75,10
+191,Musique Ludique et Envoûtante pour Petits Curieux 3,Beethoven,1830,Musical Wonders 5,40,11
+192,Génétique Moléculaire: Nouveautés et Applications Thérapeutiques 3,Francis Collins,2030,Genetic Discoveries,82.5,12
+193,Trésors Littéraires Inoubliables et Intemporels 3,Various Authors,1960,Literary Treasures,42.99,13
+194,Marketing Numérique Stratégique et Innovant 3,Seth Godin,2039,Digital Trends,54,14
+195,Contes Féériques Enchantés pour Petits Rêveurs 3,Hans Christian Andersen,1895,Fantasy Realm Books,39.5,15
+196,Art Contemporain: Formes et Expressions Vibrantes 3,Modern Art Studio,2032,Visual Journeys,64.25,16
+197,Astronomie pour les Rêveurs de l'Univers 3,Cosmic Kids,2033,Cosmic Publishing,48.5,17
+198,Cinéma: Techniques Avancées de la Réalisation 3,Sofia Coppola,2029,FilmCraft,60.75,18
+199,Exploration de la Nature pour Petits Aventuriers 3,Young Explorers Club,2040,Outdoor Adventures,46.99,19
+200,Statistiques Économiques: Approches Innovantes 3,Robert J. Shiller,2031,Economic Insights,63.25,20

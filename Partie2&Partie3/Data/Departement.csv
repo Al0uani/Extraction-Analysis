@@ -1,0 +1,21 @@
+numDep,NomDep,categorie,nbrTables,superficie
+1,Physique,Science,30,200
+2,Lettres et Arts,Lettre,25,180
+3,Finance,Economie,20,150
+4,Dessin,Enfant,15,120
+5,Poemes,Lettre,22,160
+6,Informatique,Science,18,130
+7,Painture,Lettre,28,190
+8,Jeux educatifs,Enfant,12,110
+9,Mathematiques,Science,25,170
+10,Philosophie,Lettre,23,140
+11,Musique Ludique,Enfant,10,100
+12,Biologie,Science,30,200
+13,Litterature Classique,Lettre,25,180
+14,Marketing Strategique,Economie,20,150
+15,Monde des Contes,Enfant,15,120
+16,Art Contemporain,Lettre,22,160
+17,Astronomie,Science,18,130
+18,Cinema,Lettre,28,190
+19,Exploration Nature,Enfant,12,110
+20,Statistiques Économiques,Economie,25,170
